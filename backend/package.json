@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"No build step required for backend\"",
+    "test": "echo \"No tests yet\""
+  },
+  "author": "",
+  "license": "ISC"
+}
